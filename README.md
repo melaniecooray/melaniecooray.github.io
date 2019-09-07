@@ -1,3 +1,3 @@
 # melaniecooray.github.io
 
-This is my website
+This is Melanie Cooray's website
